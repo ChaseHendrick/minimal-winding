@@ -9,6 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0002-9754-6087"
 license: Apache-2.0
 repository-code: "https://github.com/ChaseHendrick/minimal-winding"
+doi: "10.5281/zenodo.22963796"
 preferred-citation:
   type: article
   title: "Minimal Winding in the Self-Similar Collapse of Point Vortices"
