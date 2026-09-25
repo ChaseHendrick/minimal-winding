@@ -1,0 +1,13 @@
+{
+  "title": "Minimal winding in the self-similar collapse of three point vortices and of two concentric vortex polygons: programs and data",
+  "upload_type": "software",
+  "description": "The manuscript, verification programs and their output for the paper \"Minimal winding in the self-similar collapse of three point vortices and of two concentric vortex polygons\" by Chase Hendrick. See README.md.",
+  "creators": [
+    {
+      "name": "Hendrick, Chase",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0002-9754-6087"
+    }
+  ],
+  "license": "Apache-2.0"
+}

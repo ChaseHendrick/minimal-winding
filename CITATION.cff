@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these programs or data, please cite the paper."
+title: "Minimal winding in the self-similar collapse of three point vortices and of two concentric vortex polygons: programs and data"
+type: software
+authors:
+  - given-names: "Chase"
+    family-names: "Hendrick"
+    affiliation: "Independent Researcher"
+    email: "chasewhendrick@gmail.com"
+    orcid: "https://orcid.org/0009-0002-9754-6087"
+license: Apache-2.0
+repository-code: "https://github.com/ChaseHendrick/minimal-winding"
+preferred-citation:
+  type: article
+  title: "Minimal winding in the self-similar collapse of three point vortices and of two concentric vortex polygons"
+  authors:
+    - given-names: "Chase"
+      family-names: "Hendrick"
+      affiliation: "Independent Researcher"
+      email: "chasewhendrick@gmail.com"
+      orcid: "https://orcid.org/0009-0002-9754-6087"
+  year: 2026
